@@ -1,3 +1,3 @@
 <?php 
 \SYSTEM\autoload::registerFolder(dirname(__FILE__),'LIB');
-\LIB\lib_controll::register('\LIB\lib_font_awesome');
+\LIB\lib_controll::register('\LIB\lib_font_awesome4');
